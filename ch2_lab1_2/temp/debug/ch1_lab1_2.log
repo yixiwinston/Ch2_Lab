@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  f_1.c
+c:\c_code\ch2_lab1_2\source\f_1.c(10): warning C4101: 'temp2': 未參考的區域變數
+c:\c_code\ch2_lab1_2\source\f_1.c(9): warning C4101: 'temp': 未參考的區域變數
+  f_2.c
+c:\c_code\ch2_lab1_2\source\f_2.c(10): warning C4101: 'temp2': 未參考的區域變數
+c:\c_code\ch2_lab1_2\source\f_2.c(9): warning C4101: 'temp': 未參考的區域變數
+  f_3.c
+  f_4.c
+  f_5.c
+c:\c_code\ch2_lab1_2\source\f_5.c(10): warning C4101: 'temp2': 未參考的區域變數
+  正在產生程式碼...
+  ch1_lab1_2.vcxproj -> C:\c_code\ch2_lab1_2\ch1_lab1_2\ch1_lab1_2\..\..\temp\debug\ch1_lab1_2.exe
